@@ -1,0 +1,33 @@
+# Python & environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Temp files & caches
+.temp_audio/
+*.tmp
+test_screen.png
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Other local workspace projects (kept locally, excluded from air-presenter repo)
+air_ninja.py
+gesture_controller.py
+jarvis.py
+high_score.json
+run.bat
+run_jarvis.bat
+run_ninja.bat
+AIR_NINJA_README.md
+AIR_PRESENTER_README.md
+JARVIS_README.md
+MULTI_APP_README.md
+requirements-full.txt
